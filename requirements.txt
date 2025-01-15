@@ -1,9 +1,9 @@
 --find-links https://download.pytorch.org/whl/torch_stable.html
 
 pandas
-torch==2.0.0
-torchdata==0.7.0
-torchtext==0.15.0
+torch==1.11.0+cu113
+torchdata==0.3.0
+torchtext==0.12
 spacy
 altair
 GPUtil
